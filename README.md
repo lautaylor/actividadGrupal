@@ -1,2 +1,3 @@
 # actividadGrupal
 LAURA TAYLOR
+RODRIGUEZ LUCAS
